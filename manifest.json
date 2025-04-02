@@ -1,0 +1,20 @@
+{
+  "short_name": "SOCIO Tupak Rantina",
+  "name": "SOCIO Tupak Rantina",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/zBPmbxNT/TRANSPARENTE-min.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/zBPmbxNT/TRANSPARENTE-min.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/cajadeahorrosdoc/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
